@@ -7,15 +7,27 @@
 - <b>Hello World </b>
   - [Image Analysis Middleware]
 
-<h2>📺 Certifications</h2>
+<h2>📺 Certifications and trainings</h2>
 
-- [Google IT Support Professionnal Certification](https://coursera.org/verify/professional-cert/84HBZTRWKC4A))
-- [A Day in the Life of a Cybersecurity Anayst]
+- Junior Cybersecurity Analyst, May 2023 to July 2023, CISCO Networking Academy
+- Entry-Level Cybersecurity Training, May 2023, Cybrary
+- Certified in Cybersecurity (CC), April 2023, ISC2
+- Fortinet NSE 1,2,3, April 2023, Fortinet NSE Certification Program
+- Healthcare IT Support, March 2023, The Johns Hopkins University 
+- [Google IT Support Professionnal Certification](https://coursera.org/verify/professional-cert/84HBZTRWKC4A)
+- Hazard Recognition and Risks Assessment, November 2022
+- [ISO Management System Audit Techniques And Best Practices, October 2022](https://alison.com/user/learner-verification/26586266/1373)
+- [Management of development projects, September 2022](https://courses.edx.org/certificates/c9df3fd6dc7b4392b556e39243155992)
+- Lead to Transform Certified, February 2020 to March 2021, International Leadership Foundation
+  
+<h2>📺 Education</h2>
 
+- Master of Engineering Degree in Industrial Maintenance and Production 
+ September 2007 to December 2010, National School of Agro-Industrial Science Ngaoundéré, Adamaoua, Cameroon
+- Bachelor of Science in Physics
+  September 2003 to September 2010, The University of Ngaoundéré Ngaoundéré, Adamaoua, Cameroon
+  
 <h2> 🤳 Connect with me:</h2>
--[twitter]: https://twitter.com
--[youtube]: https://www.youtube.com</b>
--[instagram]: https://www.instagram.com</b>
 -[linkedin]: https://linkedin.com/in</b>
 
 <!--
