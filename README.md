@@ -28,7 +28,7 @@
   September 2003 to September 2010, The University of Ngaoundéré Ngaoundéré, Adamaoua, Cameroon
   
 <h2> 🤳 Connect with me:</h2>
--[linkedin]: https://linkedin.com/in</b>
+- [LinkedIn](https://www.linkedin.com/in/alphonse-koumna-75a65738)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
