@@ -3,12 +3,13 @@
 <h2>👨‍💻 Homelab Projects</h2>
 
 - <b>Installing of a splunk enterprise server</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
 - <b>Hello World </b>
   - [Image Analysis Middleware]
 
 <h2>📺 Certifications and trainings</h2>
 
+- SOC Analyst Career Path, September 2023, LetsDefend
 - Junior Cybersecurity Analyst, May 2023 to July 2023, CISCO Networking Academy
 - Entry-Level Cybersecurity Training, May 2023, Cybrary
 - Certified in Cybersecurity (CC), April 2023, ISC2
