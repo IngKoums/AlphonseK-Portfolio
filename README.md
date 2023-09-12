@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alphonse! <h2>Cybersecurity Analyst</h2>
 
-<h2>👨‍💻 Homelab Projects</h2>
+<h2>👨‍💻 Projects</h2>
 
 - <b>Installing of a splunk enterprise server</b>
   - 
