@@ -9,7 +9,7 @@
 
 <h2>📺 Certifications and trainings</h2>
 
-- Google Cybersecurity Professionnal Certificate (https://coursera.org/verify/professional-cert/7S3UQH2GE4KR)
+- [Google Cybersecurity Professionnal Certificate](https://coursera.org/verify/professional-cert/7S3UQH2GE4KR)
 - SOC Analyst Career Path, September 2023, LetsDefend
 - Junior Cybersecurity Analyst, May 2023 to July 2023, CISCO Networking Academy
 - Entry-Level Cybersecurity Training, May 2023, Cybrary
