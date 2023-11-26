@@ -11,7 +11,7 @@
 
 - [Google Cybersecurity Professionnal Certificate](https://www.credly.com/badges/d47b184a-ccf7-46f9-9ecb-1be9a94bf123/public_url)
 - SOC Analyst Career Path, September 2023, LetsDefend
-- Junior Cybersecurity Analyst, May 2023 to July 2023, CISCO Networking Academy
+- [Junior Cybersecurity Analyst career path](https://www.credly.com/badges/05ad9c12-d4c5-40a8-a03c-6e76d8908d92/public_url), May 2023 to July 2023, CISCO Networking Academy
 - Entry-Level Cybersecurity Training, May 2023, Cybrary
 - Certified in Cybersecurity (CC), April 2023, ISC2
 - Fortinet NSE 1,2,3, April 2023, Fortinet NSE Certification Program
