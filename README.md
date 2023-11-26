@@ -6,7 +6,8 @@
   - 
 - <b>Hello World </b>
   - [Image Analysis Middleware]
-
+    (https://imgur.com/undefined)
+  
 <h2>📺 Certifications and trainings</h2>
 
 - [Google Cybersecurity Professionnal Certificate](https://www.credly.com/badges/d47b184a-ccf7-46f9-9ecb-1be9a94bf123/public_url), October 2023, Coursera
