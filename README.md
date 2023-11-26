@@ -9,6 +9,7 @@
 
 <h2>📺 Certifications and trainings</h2>
 
+- Google Cybersecurity Professionnal Certificate (https://coursera.org/verify/professional-cert/7S3UQH2GE4KR)
 - SOC Analyst Career Path, September 2023, LetsDefend
 - Junior Cybersecurity Analyst, May 2023 to July 2023, CISCO Networking Academy
 - Entry-Level Cybersecurity Training, May 2023, Cybrary
@@ -23,7 +24,7 @@
   
 <h2>📺 Education</h2>
 
-- Master of Engineering Degree in Industrial Maintenance and Production </b>
+- Master of Engineering Degree in Industrial Maintenance and Production
  September 2007 to December 2010, National School of Agro-Industrial Science Ngaoundéré, Adamaoua, Cameroon
 - Bachelor of Science in Physics
   September 2003 to September 2010, The University of Ngaoundéré Ngaoundéré, Adamaoua, Cameroon
