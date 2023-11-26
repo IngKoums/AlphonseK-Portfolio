@@ -24,7 +24,7 @@
 <h2>📺 Education</h2>
 
 - Master of Engineering Degree in Industrial Maintenance and Production 
- September 2007 to December 2010, National School of Agro-Industrial Science Ngaoundéré, Adamaoua, Cameroon
+ <b>September 2007 to December 2010, National School of Agro-Industrial Science Ngaoundéré, Adamaoua, Cameroon<b>
 - Bachelor of Science in Physics
   September 2003 to September 2010, The University of Ngaoundéré Ngaoundéré, Adamaoua, Cameroon
   
